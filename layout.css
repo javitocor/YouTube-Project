@@ -51,3 +51,12 @@ nav{
     position: relative;
 
 }
+.video-buttons{
+    margin: 5px;
+    float: right;
+    align-items: center;
+    position: absolute;
+    right: 57%;
+    top: 65%;
+    
+}
