@@ -55,10 +55,6 @@ nav{
     position: relative;
 
 }
-#user-image{
-    float: left;
-    display: inline;
-}
 .video-buttons{
     margin: 5px;
     float: right;
