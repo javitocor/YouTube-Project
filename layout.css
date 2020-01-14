@@ -1,5 +1,5 @@
 body{
-    background-color:lightgrey;
+    background-color: whitesmoke;
     margin: 0px 80px 0px 80px;
 }
 nav{
@@ -8,7 +8,6 @@ nav{
     height: 65px;
     display: flex;
     align-items: center;
-    outline: solid 1px darkgray;
     background-color: white; 
 }
 .nav-left{
@@ -28,22 +27,34 @@ nav{
 .main{
     height: 600px;
     width: 800px;
-    margin: 10px;
+    margin: 20px 10px;
     display: flex;
     float: left;
     flex-direction: column;
-    background-color: grey;
+    background-color: white;
 }
 .sidebar{
-   
-    width: 325px;
+    position: absolute;
+    right: 50px;
+    width: 350px;
     height: auto;
     display: flex;
-    margin: 25px;
+    margin: 20px;
     flex-direction: column;
     outline: solid 1px darkgray;
     background-color: white;
 }
+    section{
+        font-size: small;
+    }
+    h2{
+        text-align: center;
+        
+    }
+    .views{
+        font-size: smaller;
+        color: grey;
+    }
 .suggested-videos{
     display:flex;
 }
