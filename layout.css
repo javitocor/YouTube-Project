@@ -7,7 +7,6 @@ nav{
     outline-color: darkgray;  
 }
 .main{
-    background-color: red;
     height: 600px;
     width: 950px;
     margin: 20px;
@@ -15,10 +14,11 @@ nav{
     float: left;
     flex-direction: column;
     outline: solid;
+    outline-color: darkgray;
 }
 .sidebar{
     width: 300px;
-    height: 800px;
+    height: auto;
     float: right;
     display: flex;
     margin: 20px;
@@ -28,7 +28,6 @@ nav{
     outline-color: darkgray; 
 }
 .comments{
-    background-color: indigo;
     position: relative; 
     display: flex;
     float: left;
@@ -36,6 +35,7 @@ nav{
     width: 950px;
     height: auto;
     outline: solid;
+    outline-color: darkgray;
 }
 .images{
     margin-left: auto;
