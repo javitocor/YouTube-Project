@@ -4,20 +4,27 @@ body{
 }
 nav{
     margin: 10px;
-    height: 100px;
+    height: 65px;
     display: flex;
     align-items: center;
     outline: solid 1px darkgray;
     background-color: white; 
 }
 .nav-left{
-
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
 }
 .nav-center{
-
+    display: flex;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 .nav-right{
-    
+    display: flex;
+    margin: 40px;
+    right: 10%;
+    justify-content: space-between;
 }
 .main{
     height: 600px;
