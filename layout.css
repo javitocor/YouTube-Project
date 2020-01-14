@@ -58,12 +58,12 @@ nav{
     margin: 5px;
     float: right;
     align-items: center;
-    position: absolute;
-    right: 550px;
+    position: absolute;   
     top: 435px;
-    
+    right: 455px;
 }
 .navItems{
     margin: 40px;
     
 }
+
