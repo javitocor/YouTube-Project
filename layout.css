@@ -55,14 +55,23 @@ nav{
     position: relative;
 
 }
+#user-image{
+    float: left;
+    display: inline;
+}
 .video-buttons{
     margin: 5px;
     float: right;
     align-items: center;
-    position: absolute;   
+    position: relative;   
+    left:79%;
+    bottom: 8%;
+    /*
     top: 435px;
     right: 455px;
+    */
 }
+
 .navItems{
     margin: 40px;
     
