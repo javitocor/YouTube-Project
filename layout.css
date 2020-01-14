@@ -10,6 +10,15 @@ nav{
     outline: solid 1px darkgray;
     background-color: white; 
 }
+.nav-left{
+
+}
+.nav-center{
+
+}
+.nav-right{
+    
+}
 .main{
     height: 600px;
     width: 800px;
@@ -64,8 +73,5 @@ nav{
     bottom: 8%;
 }
 
-.navItems{
-    margin: 40px;
-    
-}
+
 
