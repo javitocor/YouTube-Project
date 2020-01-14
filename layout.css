@@ -37,7 +37,8 @@ nav{
     margin: 10px;
     width: 800px;
     height: auto;
-    background-color: grey;
+    background-color: white;
+    justify-content: center;
 }
 .images{
     margin-left: auto;
