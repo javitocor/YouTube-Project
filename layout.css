@@ -33,6 +33,11 @@ nav{
     flex-direction: column;
     background-color: white;
 }
+.YT-user{
+    display:flex;
+    position:relative;
+    top: 10px;
+}
 .sidebar{
     position: absolute;
     right: 50px;
