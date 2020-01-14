@@ -3,6 +3,7 @@ body{
     margin: 0px 80px 0px 80px;
 }
 nav{
+    width:100%;
     margin: 10px;
     height: 65px;
     display: flex;
@@ -23,8 +24,6 @@ nav{
 .nav-right{
     display: flex;
     margin: 40px;
-    right: 10%;
-    justify-content: space-between;
 }
 .main{
     height: 600px;
@@ -36,10 +35,11 @@ nav{
     background-color: grey;
 }
 .sidebar{
+   
     width: 325px;
     height: auto;
     display: flex;
-    margin: 10px;
+    margin: 25px;
     flex-direction: column;
     outline: solid 1px darkgray;
     background-color: white;
