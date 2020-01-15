@@ -38,6 +38,10 @@ nav{
     position:relative;
     top: 10px;
 }
+.subscribe{
+    display: flex;
+    flex-direction: column;
+}
 .sidebar{
     position: absolute;
     right: 50px;
@@ -85,7 +89,7 @@ nav{
 }
 .video-buttons{
     margin: 5px;
-    float: right;
+    display: flex;
     align-items: center;
     position: relative;   
     left:79%;
