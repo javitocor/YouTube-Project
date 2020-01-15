@@ -105,13 +105,15 @@ nav{
     position: relative; 
     float: right; 
     flex-direction: row;   
+    color: gray;
 }
 .video-buttons-left{
     display: flex;
     position: relative;
     float: left;
-    bottom:5px;
+    bottom:1px;
     flex-direction: row;
+    color: gray;
 }
 .description{
     display: flex;
