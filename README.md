@@ -9,14 +9,13 @@ YouTube visually, without the functionality.
 HTML & CSS
 
 # Live demo
-*Tried to use RawGitHack but got an error 404. Please  help us figure it out.
+https://rawcdn.githack.com/javitocor/YouTube-Project/06a4363536c46a72d3598642b31564081febe2f6/index.html
 
 # Getting started
-Clone repo from Github... But seriously, who would want to?
+Feel free to clone & play around with the repo.
 
 # Credit
-Special thanks to our reviewer Oluwcdamilare for congratulating us on such an ugly 
-clone and guiding us to make it better!
+Special thanks to our reviewer Oluwcdamilare for guiding us to make it better!
 
 # Show your support
 Give a star if you like this project!
