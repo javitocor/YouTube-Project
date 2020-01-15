@@ -68,6 +68,14 @@ nav{
     flex-direction: column;
     background-color: white;
 }
+.up-next{
+    height: 30px;
+    margin-left: 5px;
+    display: flex;
+    position: relative;
+    border-bottom: solid lightgray 1px;
+    align-items: center;
+}
     section{
         font-size: small;
     }
@@ -81,7 +89,7 @@ nav{
     }
 .suggested-videos{
     display:flex;
-    margin-bottom: 10px;
+    margin: 10px 0px;
     border-bottom: lightgray solid 1px;
 }
 .comments{
