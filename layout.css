@@ -29,7 +29,7 @@ nav{
     
 }
 .main{
-    height: 600px;
+    height: auto;
     width: 800px;
     margin: 20px 10px;
     display: flex;
@@ -40,11 +40,19 @@ nav{
 .YT-user{
     display:flex;
     position:relative;
-    top: 10px;
+    width: auto;
+    outline: grey 1px solid;
 }
 .subscribe{
     display: flex;
     flex-direction: column;
+    font-weight: bold;
+}
+.counter{
+    display: flex;
+    position: absolute;
+    right: 10px;
+    color: grey;
 }
 .sidebar{
     position: absolute;
@@ -89,6 +97,7 @@ nav{
 }
 .video{
     position: relative;
+    height: 700;
 
 }
 .video-buttons{
