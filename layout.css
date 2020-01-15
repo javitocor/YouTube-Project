@@ -1,5 +1,6 @@
 body{
-    background-color: whitesmoke;
+    
+    background-color: #EEEEEE;
     margin: 0px 80px 0px 80px;
 }
 nav{
@@ -37,6 +38,10 @@ nav{
     flex-direction: column;
     background-color: white;
 }
+#user-image{
+    top: 15px;
+    position: relative;
+}
 .YT-user{
     display:flex;
     position:relative;
@@ -61,7 +66,6 @@ nav{
     display: flex;
     margin: 20px;
     flex-direction: column;
-    outline: solid 1px darkgray;
     background-color: white;
 }
     section{
@@ -77,6 +81,8 @@ nav{
     }
 .suggested-videos{
     display:flex;
+    margin-bottom: 10px;
+    border-bottom: lightgray solid 1px;
 }
 .comments{
     position: relative; 
