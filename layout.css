@@ -19,10 +19,14 @@ nav{
     display: flex;
     margin-right: 20px;
     margin-left: 20px;
+    
 }
 .nav-right{
     display: flex;
-    margin: 40px;
+    position: absolute;
+    right: 120px;
+    align-items: center;
+    
 }
 .main{
     height: 600px;
