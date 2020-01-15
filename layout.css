@@ -41,7 +41,6 @@ nav{
     display:flex;
     position:relative;
     width: auto;
-    border-bottom: solid grey 1px;
 }
 .subscribe{
     display: flex;
@@ -88,12 +87,8 @@ nav{
     height: auto;
     background-color: white;
     justify-content: center;
-}
-.description{
-    position: relative;
-    display:flex;
-    align-self: flex-end;
-    justify-content: left;
+    top: 60px;
+    border-top: solid 1px grey;
 }
 .video{
     position: relative;
@@ -103,19 +98,23 @@ nav{
 .video-buttons-right{
     display: flex;
     position: relative; 
-    float: right;
-    top: 10px; 
+    float: right; 
     flex-direction: row;   
 }
 .video-buttons-left{
     display: flex;
     position: relative;
     float: left;
-    top: 10px;
+    bottom:5px;
     flex-direction: row;
 }
-.video-buttons-left div{
-    margin-right: 25px;
+.description{
+    display: flex;
+    position: relative;
+    border-top: solid 1px grey;
+    height: auto;
+    top: 50px;
+
 }
 
 
