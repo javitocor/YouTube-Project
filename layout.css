@@ -1,5 +1,5 @@
 body{
-    
+    font-family: 'YouTube Noto', Roboto, arial, sans-serif;
     background-color: #EEEEEE;
     margin: 0px 80px 0px 80px;
 }
@@ -93,8 +93,7 @@ nav{
     height: auto;
     background-color: white;
     justify-content: center;
-    top: 60px;
-    border-top: solid 1px grey;
+    border-top: solid 1px lightgray;
 }
 .video{
     position: relative;
@@ -117,10 +116,20 @@ nav{
 .description{
     display: flex;
     position: relative;
-    border-top: solid 1px grey;
-    height: auto;
-    top: 50px;
+    border-top: solid 1px lightgray;
+    height: 200px;
+    top: 18px;
+    font-size: small;
+}
+.description > p{
+    left: 5px;
+    position: relative;
+}    
 
+.show-more{
+    border-top: solid 1px lightgray;
+    text-align:center;
+    height: auto;
 }
 
 
