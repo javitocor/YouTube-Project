@@ -1,7 +1,7 @@
 # YouTube-Project
 A fake clone of YouTube
 
-![screenshot](screenshot.png)
+![screenshot](/screenshot.png)
 
 # What it does?
 It was the first exercise of the Microverse full time course. The goal was to replicate 
